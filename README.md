@@ -687,6 +687,7 @@ Also, a leaderboard should be included if only:
 | [RoboArena](https://robo-arena.github.io/leaderboard) | RoboArena is a leaderboard for evaluating embodied AI and robotics models. |
 | [RoboCasa](https://robocasa.ai/leaderboard.html) | RoboCasa is a benchmark leaderboard for evaluating embodied AI agents on household manipulation tasks. |
 | [RoboChallenge](https://robochallenge.ai/leaderboard) | RoboChallenge is a leaderboard for evaluating embodied AI and robotics models. |
+| [RoboDojo Benchmark](https://robodojo-benchmark.com) | RoboDojo Benchmark is a unified benchmark for evaluating generalist robot manipulation policies in both simulation and real-world tasks. |
 | [WorldArena](https://huggingface.co/spaces/WorldArena/WorldArena) | WorldArena is a unified benchmark to evaluate embodied world models across perceptual and functional dimensions, including video perception quality, embodied task functionality, and human evaluations. |
 
 ### 3D
