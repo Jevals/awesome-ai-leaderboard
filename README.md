@@ -230,7 +230,7 @@ Also, a leaderboard should be included if only:
 | [Japanese Chatbot Arena](https://huggingface.co/spaces/yutohub/japanese-chatbot-arena-leaderboard) | Japanese Chatbot Arena hosts the chatbot arena, where various LLMs compete based on their performance in Japanese. |
 | [Japanese LLM Roleplay Benchmark](https://github.com/oshizo/japanese-llm-roleplay-benchmark?tab=readme-ov-file#leaderboard-v20231103) | Japanese LLM Roleplay Benchmark is a benchmark to evaluate the performance of Japanese LLMs in character roleplay. |
 | [JMMMU](https://huggingface.co/spaces/JMMMU/JMMMU_Leaderboard) | JMMMU (Japanese MMMU) is a multimodal benchmark to evaluate LMM performance in Japanese. |
-| [Jevals](https://jevals.com/) | Jevals is an independent benchmark that scores models on the same typed decisions (yes/no, pick one of N, rubric level) against human labels, reporting accuracy, calibration, cost and latency. |
+| [Jevals](https://jevals.com) | Jevals is an independent benchmark that scores models on the same typed decisions (yes/no, pick one of N, rubric level) against human labels, reporting accuracy, calibration, cost and latency. |
 | [JustEval](https://allenai.github.io/re-align/just_eval.html) | JustEval is a powerful tool designed for fine-grained evaluation of LLMs. |
 | [KI-Benchmark-Deutsch](https://i6eal.de/ki-benchmark-deutsch/) | KI-Benchmark-Deutsch tracks and ranks the performance of LLMs on German-language tasks, including administrative, legal, and business German. |
 | [KoLA](http://103.238.162.37:31622/LeaderBoard) | KoLA is a benchmark to evaluate the world knowledge of LLMs. |
